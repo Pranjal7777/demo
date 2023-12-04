@@ -1,0 +1,54 @@
+image: node:14.18.0
+
+options:
+  docker: true
+
+pipelines:
+  branches:
+    build/release/bomshell:
+      - step:
+          name: Zipping and Writing Build
+          size: 2x
+          caches:
+            - docker
+          script:
+            - export BITBUCKET_DOCKER_MEMORY=8192
+            # prepare data
+            - export IMAGE_NAME="fanzly-website-service"
+            - export VERSION=bomshell
+            # Login to Docker Hub
+            - echo "${DOCKER_PASS}" | docker login --username ${DOCKER_USER} --password-stdin
+            # Build the docker image
+            - docker build -t ${DOCKER_USER}/${IMAGE_NAME}:${VERSION} .
+            # Tag the build
+            - docker push ${DOCKER_USER}/${IMAGE_NAME}:${VERSION}
+            - echo "Deploying to development environment"
+          services:
+            - docker
+    build/release/bomshell-agency:
+      - step:
+          name: Zipping and Writing Build
+          size: 2x
+          caches:
+            - docker
+          script:
+            - export BITBUCKET_DOCKER_MEMORY=8192
+            # prepare data
+            - export IMAGE_NAME="fanzly-website-service"
+            - export VERSION=bomshell-agency
+            # Login to Docker Hub
+            - echo "${DOCKER_PASS}" | docker login --username ${DOCKER_USER} --password-stdin
+            # Build the docker image
+            - docker build -t ${DOCKER_USER}/${IMAGE_NAME}:${VERSION} .
+            # Tag the build
+            - docker push ${DOCKER_USER}/${IMAGE_NAME}:${VERSION}
+            - echo "Deploying to development environment"
+          services:
+            - docker
+definitions:
+  services:
+    docker:
+      memory: 7168
+    docker-with-large-memory:
+      memory: 7168
+      type: docker

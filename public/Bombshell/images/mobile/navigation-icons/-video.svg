@@ -1,0 +1,24 @@
+<!-- <svg xmlns="http://www.w3.org/2000/svg" width="25.382" height="16.698" viewBox="0 0 25.382 16.698">
+  <g id="video" data-name="-video" transform="translate(0.75 0.75)">
+    <path id="Path_108812" data-name="Path 108812" d="M31.6,10.5,24,15.928l7.6,5.428Z" transform="translate(-7.716 -8.329)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_108813" data-name="Path 108813" d="M3.671,7.5H15.612a2.171,2.171,0,0,1,2.171,2.171V20.527A2.171,2.171,0,0,1,15.612,22.7H3.671A2.171,2.171,0,0,1,1.5,20.527V9.671A2.171,2.171,0,0,1,3.671,7.5Z" transform="translate(-1.5 -7.5)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg> -->
+<!-- New Icon Updated on June 2nd, 2021 by Bhavleen -->
+<!-- 
+<svg xmlns="http://www.w3.org/2000/svg" width="19.801" height="18.521" viewBox="0 0 19.801 18.521">
+  <g  id="video" transform="translate(-1.55 -1.55)">
+    <g id="Group_55691" data-name="Group 55691" transform="translate(1 1)">
+      <path id="Path_170664" data-name="Path 170664" d="M18.165,18.62H2.736A2.065,2.065,0,0,1,1,16.339V3.281A2.065,2.065,0,0,1,2.736,1H18.165A2.065,2.065,0,0,1,19.9,3.281V16.339A2.065,2.065,0,0,1,18.165,18.62Z" transform="translate(0 0)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.9"/>
+      <path id="Path_170665" data-name="Path 170665" d="M24,20.4V11.645c0-.454.394-.735.707-.5l5.922,4.378a.668.668,0,0,1,0,1.009l-5.922,4.378C24.394,21.137,24,20.855,24,20.4Z" transform="translate(-17 -6.058)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.9"/>
+    </g>
+  </g>
+</svg> -->
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="19.674" height="14.68" viewBox="0 0 19.801 14.521">
+  <g id="video" data-name="Icon feather-video" transform="translate(0.6 0.6)">
+    <path id="Path_108812" data-name="Path 108812" d="M29.878,10.5,24,15.512l5.878,5.012Z" transform="translate(-11.404 -8.772)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    <path id="Path_108813" data-name="Path 108813" d="M3.179,7.5h9.237A1.815,1.815,0,0,1,14.1,9.426v9.628a1.815,1.815,0,0,1-1.679,1.926H3.179A1.815,1.815,0,0,1,1.5,19.054V9.426A1.815,1.815,0,0,1,3.179,7.5Z" transform="translate(-1.5 -7.5)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+  </g>
+</svg>

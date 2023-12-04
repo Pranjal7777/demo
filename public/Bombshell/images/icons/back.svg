@@ -1,0 +1,8 @@
+<svg id="_Icons_Arrow_Left" data-name="_Icons / Arrow Left" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="12" viewBox="0 0 13 12">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Arrow_Left" data-name="Arrow Left" d="M5.773,10.589a.908.908,0,0,1,0,1.169.66.66,0,0,1-1.024,0L.215,6.584a.9.9,0,0,1,0-1.17L4.754.244a.662.662,0,0,1,1.024,0,.906.906,0,0,1,0,1.169L2.466,5.177h9.81A.776.776,0,0,1,13,6a.78.78,0,0,1-.724.823H2.466Z" fill="currentColor"/>
+    </clipPath>
+  </defs>
+  <path id="Arrow_Left-2" data-name="Arrow Left" d="M5.773,10.589a.908.908,0,0,1,0,1.169.66.66,0,0,1-1.024,0L.215,6.584a.9.9,0,0,1,0-1.17L4.754.244a.662.662,0,0,1,1.024,0,.906.906,0,0,1,0,1.169L2.466,5.177h9.81A.776.776,0,0,1,13,6a.78.78,0,0,1-.724.823H2.466Z" transform="translate(0)" fill="currentColor"/>
+</svg>

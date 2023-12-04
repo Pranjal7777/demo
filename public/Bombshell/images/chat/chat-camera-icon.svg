@@ -1,0 +1,17 @@
+<svg id="chat_camera_icon" xmlns="http://www.w3.org/2000/svg" fill="currentColor" width="70" height="70" viewBox="0 0 70 70">
+  <g id="Group_28103" data-name="Group 28103" transform="translate(7938 7451)">
+    <g id="Group_28101" data-name="Group 28101" transform="translate(14307 8221)">
+      <g id="Group_27879" data-name="Group 27879" transform="translate(24 191)">
+        <circle id="Ellipse_574" data-name="Ellipse 574" cx="35" cy="35" r="35" transform="translate(-22269 -15863)"/>
+      </g>
+    </g>
+    <g id="Group_28102" data-name="Group 28102" transform="translate(-2493 -3339)">
+      <g id="noun_Camera_1889949" transform="translate(-5426 -4091)">
+        <g id="Group_28043" data-name="Group 28043" transform="translate(0 0)">
+          <path id="Path_72269" data-name="Path 72269" d="M36.5,19.737H34.451l-.574-1.517-.041-.123a4.261,4.261,0,0,0-3.814-2.3h-6.6A4.339,4.339,0,0,0,19.6,18.1l-.615,1.641H16.939A6.424,6.424,0,0,0,10.5,26.176v11.2a6.424,6.424,0,0,0,6.439,6.439h19.6a6.424,6.424,0,0,0,6.439-6.439v-11.2A6.512,6.512,0,0,0,36.5,19.737ZM40.89,37.373A4.393,4.393,0,0,1,36.5,41.761H16.9a4.393,4.393,0,0,1-4.388-4.388v-11.2A4.393,4.393,0,0,1,16.9,21.788h2.789l.943-.656L21.409,19a2.292,2.292,0,0,1,1.969-1.148h6.6A2.292,2.292,0,0,1,31.95,19l.779,2.133.984.656h2.748a4.393,4.393,0,0,1,4.388,4.388v11.2h.041Z" transform="translate(-10.5 -15.8)" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+          <path id="Path_72270" data-name="Path 72270" d="M39.377,33.841h0l-.615-.041H37.736v.041a7.733,7.733,0,0,0,0,15.421V49.3h1.64v-.041a7.733,7.733,0,0,0,0-15.421Zm-.615,13.452h-.41a5.7,5.7,0,0,1,0-11.4h.41a5.7,5.7,0,0,1,0,11.4Z" transform="translate(-22.356 -26.418)" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="Back" transform="translate(-15 -53)">
+    <rect id="Rectangle_19686" data-name="Rectangle 19686" width="25" height="25" transform="translate(15 53)" fill="currentColor" opacity="0"/>
+    <path id="Arrow_Left" data-name="Arrow Left" d="M7.993,14.119A1.176,1.176,0,0,1,8,15.677a.936.936,0,0,1-1.418,0L.3,8.779a1.173,1.173,0,0,1,0-1.56L6.582.326A.939.939,0,0,1,8,.321,1.174,1.174,0,0,1,7.993,1.88L3.414,6.9H17A1.05,1.05,0,0,1,18,8a1.055,1.055,0,0,1-1,1.1H3.414Z" transform="translate(19 58)" fill="currentColor"/>
+  </g>
+</svg>

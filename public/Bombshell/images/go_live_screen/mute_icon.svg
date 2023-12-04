@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="mute_icon_svg" width="50" height="50" viewBox="0 0 50 50" fill="currentColor">
+  <g id="Group_130935" data-name="Group 130935" transform="translate(-4589 -16326)">
+    <rect id="Rectangle_22948" data-name="Rectangle 22948" width="50" height="50" rx="25" transform="translate(4589 16326)" />
+    <path id="Icon_metro-volume-mute2" data-name="Icon metro-volume-mute2" d="M22.822,15.567v1.79h-1.79l-2.26-2.26-2.26,2.26h-1.79v-1.79l2.26-2.26-2.26-2.26V9.256h1.79l2.26,2.26,2.26-2.26h1.79v1.79l-2.26,2.26Zm-11.475,7.19a.675.675,0,0,1-.477-.2l-5.2-5.2H3.246a.675.675,0,0,1-.675-.675V9.931a.675.675,0,0,1,.675-.675H5.666l5.2-5.2a.675.675,0,0,1,1.152.477V22.082a.675.675,0,0,1-.675.675Z" transform="translate(4601.304 16337.693)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg id="chat_qrcode" xmlns="http://www.w3.org/2000/svg" fill="currentColor" width="54" height="54" viewBox="0 0 54 54">
+  <g id="Group_27899" data-name="Group 27899" transform="translate(-755.147 15686.853)">
+    <circle id="Ellipse_578" data-name="Ellipse 578" cx="27" cy="27" r="27" transform="translate(755.147 -15686.853)" />
+    <path id="qrcode" d="M3,12.769H5.442v2.442H3V12.769m9.769-7.326h2.442v4.884H12.769V5.442m-2.442,7.326h4.884v4.884H12.769V15.211H10.326V12.769m7.326,0H20.1v2.442h2.442V12.769h2.442v2.442H22.537v2.442h2.442v4.884H22.537v2.442H20.1V22.537H15.211v2.442H12.769V20.1h4.884V17.653H20.1V15.211H17.653V12.769m4.884,9.769V17.653H20.1v4.884h2.442M17.653,3h7.326v7.327H17.653V3M20.1,5.442V7.884h2.442V5.442H20.1M3,3h7.327v7.327H3V3M5.442,5.442V7.884H7.884V5.442H5.442M3,17.653h7.327v7.326H3V17.653M5.442,20.1v2.442H7.884V20.1Z" transform="translate(768.259 -15673.741)" fill="#fff"/>
+  </g>
+</svg>

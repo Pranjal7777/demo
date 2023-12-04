@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="Ellipse_1736" x="0" y="0" width="32" height="32" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="crmCloseIcon" data-name="Group 132149" transform="translate(-77.836 -459.836)">
+    <g transform="matrix(1, 0, 0, 1, 77.84, 459.84)" filter="url(#Ellipse_1736)">
+      <circle id="Ellipse_1736-2" data-name="Ellipse 1736" cx="7" cy="7" r="7" transform="translate(9 9)" fill="#fff"/>
+    </g>
+    <g id="close-3" transform="translate(90.86 472.559)">
+      <path id="Path_108798" data-name="Path 108798" d="M.376,6.554a.337.337,0,0,1-.238-.576L6.017.1a.337.337,0,1,1,.477.477L.615,6.455A.338.338,0,0,1,.376,6.554Zm0,0" transform="translate(-0.039 0)" stroke="#000" stroke-width="0.3"/>
+      <path id="Path_108799" data-name="Path 108799" d="M6.256,6.554a.335.335,0,0,1-.238-.1L.138.576A.337.337,0,0,1,.615.1L6.494,5.978a.337.337,0,0,1-.238.576Zm0,0" transform="translate(-0.039 0)" stroke="#000" stroke-width="0.3"/>
+    </g>
+  </g>
+</svg>

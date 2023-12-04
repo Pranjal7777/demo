@@ -1,0 +1,16 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg" id="pollIcon">
+<ellipse opacity="0.2" cx="14" cy="14" rx="14" ry="14" fill="url(#paint0_linear_2742_11339)"/>
+<g clip-path="url(#clip0_2742_11339)">
+<path d="M8.16797 19.834H19.8346" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.6875 9.33268V19.8327H15.3125V9.33268C15.3125 8.69102 15.05 8.16602 14.2625 8.16602H13.7375C12.95 8.16602 12.6875 8.69102 12.6875 9.33268ZM8.75 12.8327V19.8327H11.0833V12.8327C11.0833 12.191 10.85 11.666 10.15 11.666H9.68333C8.98333 11.666 8.75 12.191 8.75 12.8327ZM16.9167 15.7493V19.8327H19.25V15.7493C19.25 15.1077 19.0167 14.5827 18.3167 14.5827H17.85C17.15 14.5827 16.9167 15.1077 16.9167 15.7493Z" stroke="#F5D0FF" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_2742_11339" x1="0" y1="0" x2="30.9014" y2="3.68774" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D33AFF"/>
+<stop offset="1" stop-color="#FF71A4"/>
+</linearGradient>
+<clipPath id="clip0_2742_11339">
+<rect width="14" height="14" fill="white" transform="translate(7 7)"/>
+</clipPath>
+</defs>
+</svg>

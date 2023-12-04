@@ -1,0 +1,66 @@
+.modal.left .modal-dialog,
+.modal.right .modal-dialog,
+.modal.bottom .modal-dialog {
+    position: fixed;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    -webkit-transform: translate3d(0%, 0, 0);
+        -ms-transform: translate3d(0%, 0, 0);
+         -o-transform: translate3d(0%, 0, 0);
+            transform: translate3d(0%, 0, 0);
+            margin: 0 !important;
+}
+
+.modal.left .modal-content,
+.modal.right .modal-content,
+.modal.bottom .modal-content {
+    height: 100%;
+    overflow-y: auto;
+    border: none !important;
+    border-radius: 0px !important;
+}
+
+/*Left*/
+.modal.left.fade .modal-dialog{
+    left: -100%;
+    -webkit-transition: opacity 0.3s linear, left 0.3s ease-out;
+       -moz-transition: opacity 0.3s linear, left 0.3s ease-out;
+         -o-transition: opacity 0.3s linear, left 0.3s ease-out;
+            transition: opacity 0.3s linear, left 0.3s ease-out;
+}
+
+.modal.left.fade.show .modal-dialog{
+    left: 0;
+}
+/*Left*/  
+
+/*Right*/
+.modal.right.fade .modal-dialog {
+    right: -100%;
+    -webkit-transition: opacity 0.3s linear, right 0.3s ease-out;
+       -moz-transition: opacity 0.3s linear, right 0.3s ease-out;
+         -o-transition: opacity 0.3s linear, right 0.3s ease-out;
+            transition: opacity 0.3s linear, right 0.3s ease-out;
+}
+
+.modal.right.fade.show .modal-dialog {
+    right: 0;
+}
+/*Right*/
+
+/*bottom*/
+.modal.bottom.fade .modal-dialog {
+    bottom: -100%;
+    height: auto !important;
+    -webkit-transition: opacity 0.3s linear, bottom 0.3s ease-out;
+       -moz-transition: opacity 0.3s linear, bottom 0.3s ease-out;
+         -o-transition: opacity 0.3s linear, bottom 0.3s ease-out;
+            transition: opacity 0.3s linear, bottom 0.3s ease-out;
+}
+
+.modal.bottom.fade.show .modal-dialog {
+    bottom: 0%;
+    transition: 0.3s ease-out;
+}
+/*bottom*/

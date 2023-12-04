@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <g id="Group_56205" data-name="Group 56205" transform="translate(-0.441 -137)">
+    <g id="mute" transform="translate(0.441 137.375)">
+      <path id="Path_133801" data-name="Path 133801" d="M22.5,0A22.5,22.5,0,1,1,0,22.5,22.5,22.5,0,0,1,22.5,0Z" transform="translate(0 -0.375)" opacity="0.6"/>
+      <path id="Icon_feather-heart" data-name="Icon feather-heart" d="M22.322,6.168a5.7,5.7,0,0,0-8.065,0l-1.1,1.1-1.1-1.1a5.7,5.7,0,1,0-8.065,8.065l1.1,1.1L13.158,23.4l8.065-8.065,1.1-1.1a5.7,5.7,0,0,0,0-8.065Z" transform="translate(9.177 8.628)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

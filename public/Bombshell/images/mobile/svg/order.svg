@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18.662" viewBox="0 0 18 18.662">
+  <g id="my_order" data-name="my order" transform="translate(16839.5 2569)">
+    <rect id="Rectangle_28475" data-name="Rectangle 28475" width="18" height="18" transform="translate(-16839.5 -2569)" fill="none"/>
+    <g id="Group_132306" data-name="Group 132306" transform="translate(1294.82 130.294)">
+      <path id="Path_172401" data-name="Path 172401" d="M149.626,33.845h.292v.292a.86.86,0,0,0,.876.876H161.3a.86.86,0,0,0,.876-.876V18.959a.86.86,0,0,0-.876-.876h-.876v.584h.876a.276.276,0,0,1,.292.292V34.137a.276.276,0,0,1-.292.292H150.793a.276.276,0,0,1-.292-.292v-.292h9.632a.86.86,0,0,0,.876-.876V20.01L158.5,17.5h-8.873a.86.86,0,0,0-.876.876V32.969A.86.86,0,0,0,149.626,33.845Zm9.048-15.352,1.343,1.343h-1.051a.276.276,0,0,1-.292-.292Zm-9.34-.117a.276.276,0,0,1,.292-.292h8.464v1.459a.86.86,0,0,0,.876.876h1.459v12.55a.276.276,0,0,1-.292.292H149.626a.276.276,0,0,1-.292-.292Z" transform="translate(-18281.07 -2715.794)" fill="currentColor" stroke="currentColor" stroke-width="0.3"/>
+      <path id="Path_172402" data-name="Path 172402" d="M332.5,297.5h2.335v.584H332.5Z" transform="translate(-18458.691 -2986.454)" fill="currentColor"/>
+      <path id="Path_172403" data-name="Path 172403" d="M192.5,297.5h3.794v.584H192.5Z" transform="translate(-18323.361 -2986.454)" fill="currentColor"/>
+      <path id="Path_172404" data-name="Path 172404" d="M332.5,341.25h2.335v.584H332.5Z" transform="translate(-18458.691 -3028.745)" fill="currentColor"/>
+      <path id="Path_172405" data-name="Path 172405" d="M332.5,385h2.335v.584H332.5Z" transform="translate(-18458.691 -3071.036)" fill="currentColor"/>
+      <path id="Path_172406" data-name="Path 172406" d="M192.5,341.25h3.794v.584H192.5Z" transform="translate(-18323.361 -3028.745)" fill="currentColor"/>
+      <path id="Path_172407" data-name="Path 172407" d="M192.5,385h3.794v.584H192.5Z" transform="translate(-18323.361 -3071.036)" fill="currentColor"/>
+      <path id="Path_172408" data-name="Path 172408" d="M192.5,428.75h3.794v.584H192.5Z" transform="translate(-18323.361 -3113.326)" fill="currentColor"/>
+      <path id="Path_172409" data-name="Path 172409" d="M332.5,428.75h2.335v.584H332.5Z" transform="translate(-18458.691 -3113.326)" fill="currentColor"/>
+      <path id="Path_172410" data-name="Path 172410" d="M428.75,297.5h1.459v.584H428.75Z" transform="translate(-18551.73 -2986.454)" fill="currentColor"/>
+      <path id="Path_172411" data-name="Path 172411" d="M428.75,341.25h1.459v.584H428.75Z" transform="translate(-18551.73 -3028.745)" fill="currentColor"/>
+      <path id="Path_172412" data-name="Path 172412" d="M428.75,385h1.459v.584H428.75Z" transform="translate(-18551.73 -3071.036)" fill="currentColor"/>
+      <path id="Path_172413" data-name="Path 172413" d="M428.75,428.75h1.459v.584H428.75Z" transform="translate(-18551.73 -3113.326)" fill="currentColor"/>
+      <path id="Path_172415" data-name="Path 172415" d="M192.5,253.75h9.34v.584H192.5Z" transform="translate(-18323.361 -2944.164)" fill="currentColor"/>
+      <path id="Path_172416" data-name="Path 172416" d="M280,210h3.5v.584H280Z" transform="translate(-18407.941 -2901.873)" fill="currentColor"/>
+      <g id="Group_132306-2" data-name="Group 132306" transform="translate(-18127.057 -2696.835)">
+        <line id="Line_1129" data-name="Line 1129" y2="0.555" transform="translate(0.803 0)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.6"/>
+        <line id="Line_1130" data-name="Line 1130" y1="0.555" transform="translate(0.803 3.531)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.6"/>
+        <path id="Path_108980" data-name="Path 108980" d="M48.01,63.854s1.3.674,1.573-.379c.3-1.137-1.54-.785-1.573-1.713-.039-1.132,1.573-.489,1.573-.489" transform="translate(-48.01 -60.536)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.6"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg id='info' xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" viewBox="0 0 12 12">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="12" height="12" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="_Info" data-name=" Info" clip-path="url(#clip-path)">
+    <path id="_26_Info" data-name="26 Info" d="M6,12a6,6,0,1,1,6-6A6.007,6.007,0,0,1,6,12ZM6,4.75a.5.5,0,0,0-.5.5V8.5a.5.5,0,0,0,1,0V5.25A.5.5,0,0,0,6,4.75ZM6,3a.5.5,0,1,0,.5.5A.5.5,0,0,0,6,3Z" transform="translate(0 0)" fill="currentColor"/>
+  </g>
+</svg>

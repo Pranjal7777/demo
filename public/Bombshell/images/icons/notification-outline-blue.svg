@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <g id="notification_icon" data-name="Group 132107" transform="translate(9006 -1152)">
+    <rect id="Rectangle_28289" data-name="Rectangle 28289" width="23" height="23" transform="translate(-9006 1152)" fill="none"/>
+    <g id="noun-notification-3595505" transform="translate(-9147.874 1117)">
+      <path id="Path_172345" data-name="Path 172345" d="M161.153,93.718a.8.8,0,0,0-.716.883l.768,7.3a.8.8,0,0,1-.8.888H146.287a.8.8,0,0,1-.8-.888l.967-9.183a4.012,4.012,0,0,1,4-3.6h3.7a.8.8,0,1,0,0-1.608h-3.7a5.617,5.617,0,0,0-5.6,5.04l-.967,9.183a2.413,2.413,0,0,0,2.4,2.664h3.12a4.021,4.021,0,0,0,7.879,0h3.12a2.413,2.413,0,0,0,2.4-2.664l-.768-7.3h0a.806.806,0,0,0-.884-.715ZM153.346,106a2.408,2.408,0,0,1-2.264-1.608h4.528A2.408,2.408,0,0,1,153.346,106Z" transform="translate(0 -50.094)" fill="currentColor"/>
+      <path id="Path_172346" data-name="Path 172346" d="M423.619,35a3.623,3.623,0,1,0,2.558,1.061A3.618,3.618,0,0,0,423.619,35Zm0,5.629a2.013,2.013,0,1,1,1.421-.589A2.011,2.011,0,0,1,423.619,40.629Z" transform="translate(-263.437)" fill="currentColor"/>
+    </g>
+  </g>
+</svg>

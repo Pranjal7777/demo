@@ -1,0 +1,5 @@
+<svg id="tick" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="tick" data-name="Group 131183">
+    <path id="Path_172078" data-name="Path 172078" d="M10,0A10,10,0,1,0,20,10,10,10,0,0,0,10,0Zm5.505,6.934L8.362,14.076a.714.714,0,0,1-1.01,0L4.495,11.219a.714.714,0,1,1,.992-1.028l.018.018,2.352,2.352L14.5,5.924a.714.714,0,0,1,1.01,1.01Z" fill="currentColor"/>
+  </g>
+</svg>

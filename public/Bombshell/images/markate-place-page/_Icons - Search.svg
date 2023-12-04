@@ -1,0 +1,9 @@
+<svg id="_Icons_Search" data-name="_Icons / Search" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Search" d="M13.965,15.178,11.06,12.272a6.864,6.864,0,1,1,1.212-1.212l2.906,2.905a.857.857,0,0,1-1.213,1.213ZM1.714,6.857A5.143,5.143,0,1,0,6.857,1.714,5.149,5.149,0,0,0,1.714,6.857Z" transform="translate(0 0)" fill="#1d1d26"/>
+    </clipPath>
+  </defs>
+  <rect id="_Icons_Search_background" data-name="_Icons / Search background" width="24" height="24" fill="rgba(0,0,0,0)"/>
+  <path id="Search-2" data-name="Search" d="M13.965,15.178,11.06,12.272a6.864,6.864,0,1,1,1.212-1.212l2.906,2.905a.857.857,0,0,1-1.213,1.213ZM1.714,6.857A5.143,5.143,0,1,0,6.857,1.714,5.149,5.149,0,0,0,1.714,6.857Z" transform="translate(4.286 4.286)" fill="#fff"/>
+</svg>

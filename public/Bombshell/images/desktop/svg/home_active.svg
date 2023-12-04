@@ -1,0 +1,23 @@
+<!-- <svg id="home_icon" xmlns="http://www.w3.org/2000/svg" width="26.942" height="29.637" viewBox="0 0 26.942 29.637" fill="currentColor">
+  <g id="Group_40496" data-name="Group 40496" transform="translate(-6582.615 -9485.615)">
+    <path id="Subtraction_9" data-name="Subtraction 9" d="M20.943,29.637H6a6.007,6.007,0,0,1-6-6V6A6.007,6.007,0,0,1,6,0H20.943a6.007,6.007,0,0,1,6,6V23.637A6.007,6.007,0,0,1,20.943,29.637ZM6.809,2.169a4.505,4.505,0,0,0-4.5,4.5v16.3a4.505,4.505,0,0,0,4.5,4.5H20.133a4.505,4.505,0,0,0,4.5-4.5V6.669a4.505,4.505,0,0,0-4.5-4.5Z" transform="translate(6582.615 9485.615)" />
+    <rect id="Rectangle" width="16.166" height="8.674" rx="3.22" transform="translate(6588.004 9490.675)" />
+  </g>
+</svg> -->
+
+<!-- <svg xmlns="http://www.w3.org/2000/svg" width="22.039" height="24.193" viewBox="0 0 22.039 24.193">
+  <g id="home_icon" data-name="Group 55827" transform="translate(-6582.365 -9485.365)">
+    <path id="Subtraction_9" data-name="Subtraction 9" d="M15.539,23.693H6a6.007,6.007,0,0,1-6-6V6A6.007,6.007,0,0,1,6,0h9.538a6.007,6.007,0,0,1,6,6V17.692A6.007,6.007,0,0,1,15.539,23.693ZM6.346,1.733a4.505,4.505,0,0,0-4.5,4.5V17.459a4.505,4.505,0,0,0,4.5,4.5h8.846a4.505,4.505,0,0,0,4.5-4.5V6.233a4.505,4.505,0,0,0-4.5-4.5Z" transform="translate(6582.615 9485.615)" fill="currentColor" stroke="#fff" stroke-width="0.5"/>
+    <rect id="Rectangle" width="12.923" height="6.934" rx="3.22" transform="translate(6586.923 9489.66)" fill="none" stroke="currentColor" stroke-width="1.5"/>
+  </g>
+</svg> -->
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="21.398" height="23.576" viewBox="0 0 21.398 23.576">
+  <g id="home_icon" data-name="Icon feather-home" transform="translate(-3.6 -2.1)">
+    <path id="Path_172320" data-name="Path 172320" d="M4.5,10.622,14.3,3l9.8,7.622V22.6a2.178,2.178,0,0,1-2.178,2.178H6.678A2.178,2.178,0,0,1,4.5,22.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+    <path id="Path_172321" data-name="Path 172321" d="M13.5,29.388V18h6.833V29.388" transform="translate(-2.617 -4.612)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+  </g>
+</svg>
+
+

@@ -1,0 +1,81 @@
+# Javascript Node CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-javascript/ for more details
+#
+version: 2
+jobs:
+  deployMaster:
+    docker:
+      - image: circleci/node:8.9.0
+    working_directory: ~/repo
+    steps:
+      - checkout
+      # remove node_module
+      - run: rm -rf node_modules
+      - run:
+          name: install sshpass
+          command: |
+            sudo apt-get install sshpass
+      # changing permission
+      - run: chmod +x ./.circleci/deployDev.sh
+      # deploy and start server
+      - run: ./.circleci/deployDev.sh
+
+  deployFanzly:
+    docker:
+      - image: circleci/node:8.9.0
+    working_directory: ~/repo
+    steps:
+      - checkout
+      # remove node_module
+      - run: rm -rf node_modules
+      - run:
+          name: install sshpass
+          command: |
+            sudo apt-get install sshpass
+      # changing permission
+      - run: chmod +x ./.circleci/deployFanzly.sh
+      # deploy and start server
+      - run: ./.circleci/deployFanzly.sh
+  deployTest:
+    docker:
+      - image: circleci/node:8.9.0
+    working_directory: ~/repo
+    steps:
+      - checkout
+      # remove node_module
+      - run: rm -rf node_modules
+      - run:
+          name: install sshpass
+          command: |
+            sudo apt-get install sshpass
+      # changing permission
+      - run: chmod +x ./.circleci/deployTest.sh
+      # deploy and start server
+      - run:
+          name: Updating Build Now
+          command: ./.circleci/deployTest.sh
+          no_output_timeout: 30m
+workflows:
+  version: 2
+  build_and_test:
+    jobs:
+      # - test
+      - deployMaster:
+          # requires:
+          #   - test
+          filters:
+            branches:
+              only: release/development
+      - deployFanzly:
+          # requires:
+          #   - test
+          filters:
+            branches:
+              only: release/fanzly
+      - deployTest:
+          # requires:
+          #   - test
+          filters:
+            branches:
+              only: release/staging-fanzly

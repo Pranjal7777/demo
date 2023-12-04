@@ -1,0 +1,12 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg"
+    id="lockRed">
+    <path
+        d="M7 11.6667V9.33337C7 5.47171 8.16667 2.33337 14 2.33337C19.8333 2.33337 21 5.47171 21 9.33337V11.6667"
+        stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+    <path
+        d="M13.9997 21.5833C15.6105 21.5833 16.9163 20.2775 16.9163 18.6667C16.9163 17.0558 15.6105 15.75 13.9997 15.75C12.3888 15.75 11.083 17.0558 11.083 18.6667C11.083 20.2775 12.3888 21.5833 13.9997 21.5833Z"
+        stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+    <path
+        d="M19.833 25.6666H8.16634C3.49967 25.6666 2.33301 24.5 2.33301 19.8333V17.5C2.33301 12.8333 3.49967 11.6666 8.16634 11.6666H19.833C24.4997 11.6666 25.6663 12.8333 25.6663 17.5V19.8333C25.6663 24.5 24.4997 25.6666 19.833 25.6666Z"
+        stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

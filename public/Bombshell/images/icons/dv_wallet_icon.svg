@@ -1,0 +1,19 @@
+<svg id="wallet_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86" height="86" viewBox="0 0 86 86">
+  <defs>
+    <filter id="Path_8708" x="0" y="0" width="86" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#49abf3" flood-opacity="0.482"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_50090" data-name="Group 50090" transform="translate(-261 -323)">
+    <g transform="matrix(1, 0, 0, 1, 261, 323)" filter="url(#Path_8708)">
+      <path id="Path_8708-2" data-name="Path 8708" d="M34,0A34,34,0,1,1,0,34,34,34,0,0,1,34,0Z" transform="translate(9 6)" fill="currentColor"/>
+    </g>
+    <g id="noun_Wallet_3388132" transform="translate(289.749 350.199)">
+      <path id="Path_8708-3" data-name="Path 8708" d="M29.5,15.085V9.124A1.425,1.425,0,0,0,28.071,7.7H5.274a1.425,1.425,0,0,1,0-2.85h22.8a1.425,1.425,0,1,0,0-2.85H5.274A4.274,4.274,0,0,0,1,6.274V26.221A4.274,4.274,0,0,0,5.274,30.5h22.8A1.425,1.425,0,0,0,29.5,29.071V23.11a4.249,4.249,0,0,0,0-8.024Zm-2.85,12.561H5.274A1.425,1.425,0,0,1,3.85,26.221V10.287a4.226,4.226,0,0,0,1.425.262H26.646v4.274H22.372a4.274,4.274,0,1,0,0,8.549h4.274Zm1.425-7.124h-5.7a1.425,1.425,0,1,1,0-2.85h5.7a1.425,1.425,0,1,1,0,2.85Z" transform="translate(-1 -2)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

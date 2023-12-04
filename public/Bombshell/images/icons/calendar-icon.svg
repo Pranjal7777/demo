@@ -1,0 +1,9 @@
+<svg id="calender_icon" width="16" height="16" viewBox="0 0 16 16" fill="none"
+	xmlns="http://www.w3.org/2000/svg">
+	<path
+		d="M5.33333 1.33398V3.33398M10.6667 1.33398V3.33398M2.33333 6.06065H13.6667M14 5.66732V11.334C14 13.334 13 14.6673 10.6667 14.6673H5.33333C3 14.6673 2 13.334 2 11.334V5.66732C2 3.66732 3 2.33398 5.33333 2.33398H10.6667C13 2.33398 14 3.66732 14 5.66732Z"
+		stroke="currentColor" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+	<path
+		d="M10.4653 9.13477H10.4713M10.4653 11.1348H10.4713M7.99858 9.13477H8.00525M7.99858 11.1348H8.00525M5.53125 9.13477H5.53792M5.53125 11.1348H5.53792"
+		stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

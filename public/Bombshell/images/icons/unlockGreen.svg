@@ -1,0 +1,5 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="unlockGreen">
+<path d="M7 22H17C21 22 22 21 22 17V15C22 11 21 10 17 10H7C3 10 2 11 2 15V17C2 21 3 22 7 22Z" stroke="#49FF4B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18 10V8C18 4.69 17 2 12 2C9.8944 2 8.44562 2.43788 7.5 3.2112" stroke="#49FF4B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 18.5C10.6193 18.5 9.5 17.3807 9.5 16C9.5 14.6193 10.6193 13.5 12 13.5C13.3807 13.5 14.5 14.6193 14.5 16C14.5 17.3807 13.3807 18.5 12 18.5Z" stroke="#49FF4B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

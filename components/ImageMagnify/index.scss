@@ -1,0 +1,137 @@
+// Image Magnify Style
+.Poroductimg_magnify {
+  width: 350px !important;
+  z-index: 999;
+  border: none;
+  border-radius: 2px;
+  box-shadow: 1px 1px 12px 1px rgba(0, 0, 0, 0.3);
+  background: #fff;
+}
+
+.display-flex {
+  display: flex;
+}
+
+// Image Magnifier Style
+.smallImages {
+  height: 450px;
+
+  .innerSmallImages {
+    overflow: hidden;
+
+    .leftSection {
+      height: auto;
+      overflow: hidden;
+
+      ul {
+        padding-left: 0;
+        transform: translateY(-0px);
+        transition: transform 0.4s ease-in-out,
+          -webkit-transform 0.4s ease-in-out;
+
+        li {
+          height: auto;
+          width: 64px;
+          border-right: none !important;
+          align-items: center;
+          border-bottom: none;
+          cursor: pointer;
+          list-style: none;
+
+          .images {
+            .sideImage {
+              padding: 5px;
+              background-repeat: no-repeat;
+              background-position: 50%;
+              background-size: contain;
+            }
+          }
+        }
+      }
+    }
+
+    .middleSection {
+      top: 0;
+      border-bottom: 0;
+      width: 100%;
+      height: 24px;
+      left: 0;
+      box-shadow: 0 0 10px -1px red;
+      background-color: red;
+      cursor: pointer;
+      border: 1px solid red;
+
+      i {
+        transform: rotate(90deg);
+        top: 4px;
+      }
+    }
+
+    .more {
+      bottom: 0;
+      border-top: 0;
+      width: 100%;
+      height: 24px;
+      left: 0;
+      box-shadow: 0 0 10px -1px red;
+      background-color: red;
+      cursor: pointer;
+      border: 1px solid red;
+
+      i {
+        top: 4px;
+      }
+    }
+  }
+}
+
+.magnifier {
+  width: 100%;
+
+  >div {
+    height: 100%;
+    max-width: 365px;
+    // max-width: 400px;
+    max-height: 492px;
+
+    >div {
+      top: 1%;
+      // top: 10%;
+    }
+  }
+}
+
+// Favorite Product Style
+.Product_favorite {
+  >i {
+    position: absolute;
+    right: 0;
+    top: 20px;
+    box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.1);
+    padding: 11px;
+    border-radius: 50%;
+    color: #c3c3c3;
+    cursor: pointer;
+  }
+}
+
+.Product_buybtn {
+  background: var(--l_base);
+  color: #fff;
+  border: none;
+  padding: 5px 30px;
+  font-weight: 600;
+}
+
+.Product_cartbtn {
+  background: #3a3abf;
+  color: #fff;
+  border: none;
+  padding: 5px 20px;
+  font-weight: 600;
+}
+
+.Product_scroll {
+  max-height: 368px;
+  overflow: hidden;
+}

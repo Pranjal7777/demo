@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" id="shoutvideoSVG" viewBox="0 0 24 24">
+  <g id="Group_57026" data-name="Group 57026" transform="translate(-20.389 -254.928)">
+    <g id="Group_28110" data-name="Group 28110" transform="translate(20.389 255.426)">
+      <g id="Ellipse_572" data-name="Ellipse 572" transform="translate(0 -0.498)" fill="rgba(255,157,0,0.13)" stroke="#ff9d00" stroke-width="1" opacity="0.999">
+        <circle cx="12" cy="12" r="12" stroke="none"/>
+        <circle cx="12" cy="12" r="11.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_28115" data-name="Group 28115" transform="translate(26.977 264.084)">
+      <path id="Path_71899" data-name="Path 71899" d="M1.344,0H5.567A1.344,1.344,0,0,1,6.911,1.344V4.8A1.344,1.344,0,0,1,5.567,6.143H1.344A1.344,1.344,0,0,1,0,4.8V1.344A1.344,1.344,0,0,1,1.344,0Zm0,.768a.576.576,0,0,0-.576.576V4.8a.576.576,0,0,0,.576.576H5.567A.576.576,0,0,0,6.143,4.8V1.344A.576.576,0,0,0,5.567.768Zm6.605.4L9.229.807a.9.9,0,0,1,1.138.863V4.474a.9.9,0,0,1-1.138.863l-1.28-.359A.9.9,0,0,1,7.3,4.115V2.028A.9.9,0,0,1,7.949,1.166Zm.207.739a.128.128,0,0,0-.093.123V4.115a.128.128,0,0,0,.093.123l1.28.359A.128.128,0,0,0,9.6,4.474V1.669a.128.128,0,0,0-.163-.123Z" transform="translate(0 0)" fill="#ff9d00"/>
+    </g>
+  </g>
+</svg>

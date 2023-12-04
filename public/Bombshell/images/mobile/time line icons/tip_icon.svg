@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="83" height="28" viewBox="0 0 83 28">
+  <defs>
+    <filter id="Send_tip" x="21.5" y="0" width="58" height="28" filterUnits="userSpaceOnUse">
+      <feOffset dx="-1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_101" data-name="Component 101" transform="translate(0 1)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="83" height="24" rx="10" fill="#ff71a4"/>
+    <g id="Group_55053" data-name="Group 55053" transform="translate(-5.5 -3)">
+      <g transform="matrix(1, 0, 0, 1, 5.5, 2)" filter="url(#Send_tip)">
+        <text id="Send_tip-2" data-name="Send tip" transform="translate(51.5 17)" fill="#f7f8fa" font-size="12" font-family="Avenir-Heavy, Avenir" font-weight="800" letter-spacing="-0.024em"><tspan x="-22.555" y="0">Send tip</tspan></text>
+      </g>
+      <g id="_Icons_11_Dollar_2" data-name="_Icons / 11 Dollar_2" transform="translate(13.5 7.559)">
+        <path id="_11_Dollar_2" data-name="11 Dollar_2" d="M7.442,14.884a7.442,7.442,0,1,1,7.442-7.442A7.45,7.45,0,0,1,7.442,14.884ZM5.728,9.209a.588.588,0,0,0-.413.168l-.276.273a.583.583,0,0,0,.053.871,2.879,2.879,0,0,0,1.575.6v.394a.583.583,0,0,0,.583.583h.384a.584.584,0,0,0,.583-.583v-.4a2.167,2.167,0,0,0,1.938-2.155A2.1,2.1,0,0,0,8.654,7L6.676,6.4a.558.558,0,0,1-.394-.589.573.573,0,0,1,.569-.506H8.025a1.344,1.344,0,0,1,.785.251.583.583,0,0,0,.76-.053l.276-.276a.583.583,0,0,0-.05-.868,2.9,2.9,0,0,0-1.578-.6V3.374a.584.584,0,0,0-.583-.583H7.25a.583.583,0,0,0-.583.583v.384A2.165,2.165,0,0,0,4.729,5.929a2.1,2.1,0,0,0,1.5,1.96l1.979.592a.558.558,0,0,1,.347.763.586.586,0,0,1-.526.332H6.859a1.329,1.329,0,0,1-.782-.251A.584.584,0,0,0,5.728,9.209Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

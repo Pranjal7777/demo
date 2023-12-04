@@ -1,0 +1,10 @@
+<svg id="purchase_tag" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.536" height="16.537" viewBox="0 0 16.536 16.537" fill="currentColor">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="16.536" height="16.537" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="_Icons_4_Tag" data-name="_Icons / 4 Tag" clip-path="url(#clip-path)">
+    <path id="_4_Tag" data-name="4 Tag" d="M7.539,16.537a1.955,1.955,0,0,1-1.392-.576L.576,10.389a1.967,1.967,0,0,1,0-2.783L7.608.575A1.953,1.953,0,0,1,9,0h6.357a1.182,1.182,0,0,1,1.181,1.181V7.535a1.955,1.955,0,0,1-.574,1.394L8.93,15.96A1.955,1.955,0,0,1,7.539,16.537ZM12.206,2.756a1.574,1.574,0,1,0,1.575,1.575A1.576,1.576,0,0,0,12.206,2.756Z" transform="translate(0 0)"/>
+  </g>
+</svg>

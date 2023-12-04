@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.5" height="21.5" viewBox="0 0 21.5 21.5">
+  <g id="tip" transform="translate(-139.25 -375.25)">
+    <g id="doller" transform="translate(-9 -119)">
+      <path id="Path_103239" data-name="Path 103239" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(149 495)" fill="#ff71a4" stroke="#ff71a4" stroke-width="1.5"/>
+      <text id="_" data-name="$" transform="translate(159 509)" fill="#fff" font-size="11" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0em"><tspan x="-3.283" y="0">$</tspan></text>
+    </g>
+  </g>
+</svg>

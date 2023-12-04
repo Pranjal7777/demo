@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45" fill="currentColor" id="scheduleStreamIcon">
+  <g id="Group_40856" data-name="Group 40856" transform="translate(-3054 -623)">
+    <g id="Group_40852" data-name="Group 40852" transform="translate(170 512)">
+      <rect id="Rectangle_71" data-name="Rectangle 71" width="45" height="45" rx="11" transform="translate(2884 111)" opacity="0.97"/>
+    </g>
+    <g id="calendar_copy" data-name="calendar copy" transform="translate(3066.67 635.67)">
+      <g id="Group_56101" data-name="Group 56101">
+        <g id="Group_56100" data-name="Group 56100">
+          <path id="Path_170766" data-name="Path 170766" d="M17.553,2.106H15.447V.7a.7.7,0,0,0-1.4,0v1.4H5.617V.7a.7.7,0,1,0-1.4,0v1.4H2.106A2.106,2.106,0,0,0,0,4.213v13.34A2.106,2.106,0,0,0,2.106,19.66H17.553a2.106,2.106,0,0,0,2.106-2.106V4.213A2.106,2.106,0,0,0,17.553,2.106ZM2.106,3.511H4.213v1.4a.7.7,0,0,0,.7.7c.388,0,.7-.314.7-2.106h8.426v1.4a.7.7,0,1,0,1.4,0v-1.4H2.106Z" fill="#fff"/>
+          <rect id="Rectangle_27359" data-name="Rectangle 27359" width="15" height="2" rx="1" transform="translate(2.33 4.33)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

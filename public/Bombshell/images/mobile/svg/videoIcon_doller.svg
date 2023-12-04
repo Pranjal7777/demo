@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.45" height="18" viewBox="0 0 18.45 18">
+  <g id="set_up_price" data-name="set up price" transform="translate(16885.002 2565.642)">
+    <rect id="Rectangle_28474" data-name="Rectangle 28474" width="18" height="18" transform="translate(-16884.602 -2565.642)" fill="none"/>
+    <g id="Video_Call_Price_Settings" data-name="Video Call Price Settings" transform="translate(-16901.119 -2588.286)">
+      <path id="Path_170819" data-name="Path 170819" d="M69.5,32.869l4.246-2.654v6.528l-4-2.11" transform="translate(-39.578 -3.411)" fill="rgba(0,0,0,0)" stroke="currentColor" stroke-miterlimit="10" stroke-width="0.8"/>
+      <path id="Path_170820" data-name="Path 170820" d="M18.623,34.736H17.55A1.033,1.033,0,0,1,16.517,33.7V26.678a1.033,1.033,0,0,1,1.033-1.033H28.882a1.033,1.033,0,0,1,1.032,1.033V33.7a1.033,1.033,0,0,1-1.032,1.033" transform="translate(0 0)" fill="rgba(0,0,0,0)" stroke="currentColor" stroke-miterlimit="10" stroke-width="0.8"/>
+      <path id="Path_170822" data-name="Path 170822" d="M36.457,46.1v-1.2l-1-.142a3.471,3.471,0,0,0-.478-1.156l.606-.805-.85-.85-.809.606a3.493,3.493,0,0,0-1.15-.476l-.14-.985h-1.2l-.141.986a3.477,3.477,0,0,0-1.156.48l-.8-.6-.849.85.6.8a3.471,3.471,0,0,0-.476,1.149l-1.01.144v1.2l1.01.142a3.462,3.462,0,0,0,.474,1.146l-.613.817.85.85.817-.613a3.449,3.449,0,0,0,1.156.48l.14.991h1.2l.143-.992a3.485,3.485,0,0,0,1.155-.478l.8.6.849-.85-.6-.8a3.453,3.453,0,0,0,.478-1.154Z" transform="translate(-8.282 -11.537)" fill="rgba(0,0,0,0)" stroke="currentColor" stroke-miterlimit="10" stroke-width="0.8"/>
+      <path id="Path_170932" data-name="Path 170932" d="M28.212,21.575V20.96l.054-.009a.982.982,0,0,0,.9-.962c0-.5-.265-.788-.9-1.047-.528-.217-.793-.4-.793-.75,0-.292.219-.587.708-.587a1.519,1.519,0,0,1,.728.178l.1-.278a1.573,1.573,0,0,0-.705-.176h-.065V16.74H28v.6l-.056.009a.931.931,0,0,0-.858.909c0,.438.265.714.957.985.358.146.725.353.725.782a.7.7,0,0,1-.786.662,1.69,1.69,0,0,1-.833-.227l-.1.278a1.772,1.772,0,0,0,.847.227h.065v.613Z" transform="translate(-4.361 14.803)" stroke="currentColor" stroke-width="0.4"/>
+    </g>
+  </g>
+</svg>

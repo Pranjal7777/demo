@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="cross" data-name="Group 131323" transform="translate(-4568 -2629)">
+    <path id="Union_52" data-name="Union 52" d="M0,10A10,10,0,1,1,10,20,10,10,0,0,1,0,10Z" transform="translate(4568 2629)" fill="#fff"/>
+    <path id="Icon_ionic-ios-close" data-name="Icon ionic-ios-close" d="M17.348,16.189l3.5-3.5a.82.82,0,0,0-1.16-1.16l-3.5,3.5-3.5-3.5a.82.82,0,1,0-1.16,1.16l3.5,3.5-3.5,3.5a.82.82,0,1,0,1.16,1.16l3.5-3.5,3.5,3.5a.82.82,0,1,0,1.16-1.16Z" transform="translate(4561.715 2622.711)" fill="#000"/>
+  </g>
+</svg>

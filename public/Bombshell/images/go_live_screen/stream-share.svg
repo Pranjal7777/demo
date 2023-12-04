@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_131733" data-name="Group 131733" transform="translate(-203.5 -655.5)">
+    <path id="share-7" d="M18.786,8.728a2.64,2.64,0,0,0-2.035.957L13.593,7.892a2.639,2.639,0,0,0,0-1.766l3.158-1.794a2.642,2.642,0,1,0-.458-.8L13.135,5.321a2.644,2.644,0,1,0,0,3.375l3.158,1.793a2.644,2.644,0,1,0,2.492-1.761Zm0-7.8a1.719,1.719,0,1,1-1.719,1.719A1.721,1.721,0,0,1,18.786.925ZM11.1,8.728A1.719,1.719,0,1,1,12.82,7.009,1.721,1.721,0,0,1,11.1,8.728Zm7.685,4.364A1.719,1.719,0,1,1,20.5,11.373,1.721,1.721,0,0,1,18.786,13.092Z" transform="translate(203.544 663)" fill="#ff71a4"/>
+    <g id="Group_131732" data-name="Group 131732" transform="translate(-43.364 -3)">
+      <g id="Button_login" transform="translate(247.364 659)" opacity="0.999">
+        <rect id="Rectangle" width="29" height="29" rx="4" fill="none" stroke="#ff71a4" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

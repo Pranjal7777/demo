@@ -1,0 +1,10 @@
+<svg fill="currentColor" xmlns="http://www.w3.org/2000/svg" id="videoPrice" width="18.45" height="18" viewBox="0 0 18.45 18">
+  <g id="Video_Call_Price_Settings" data-name="set up schedule" transform="translate(16885.002 2565.642)">
+    <rect id="Rectangle_28474" data-name="Rectangle 28474" width="18" height="18" transform="translate(-16884.602 -2565.642)" fill="none"/>
+    <g id="Video_Call_Price_Settings" data-name="Video Call Price Settings" transform="translate(-16901.119 -2588.286)">
+      <path id="Path_170819" data-name="Path 170819" d="M69.5,32.869l4.246-2.654v6.528l-4-2.11" transform="translate(-39.578 -3.411)" fill="rgba(0,0,0,0)" stroke="currentColor" stroke-miterlimit="10" stroke-width="0.8"/>
+      <path id="Path_170820" data-name="Path 170820" d="M18.623,34.736H17.55A1.033,1.033,0,0,1,16.517,33.7V26.678a1.033,1.033,0,0,1,1.033-1.033H28.882a1.033,1.033,0,0,1,1.032,1.033V33.7a1.033,1.033,0,0,1-1.032,1.033" transform="translate(0 0)" fill="rgba(0,0,0,0)" stroke="currentColor" stroke-miterlimit="10" stroke-width="0.8"/>
+      <path id="Icon_material-access-time" data-name="Icon material-access-time" d="M7.474,3a4.479,4.479,0,1,0,4.483,4.479A4.476,4.476,0,0,0,7.474,3Zm0,8.061a3.583,3.583,0,1,1,3.583-3.583A3.582,3.582,0,0,1,7.479,11.061ZM7.7,5.239H7.031V7.926L9.382,9.337l.336-.551L7.7,7.59Z" transform="translate(16.588 26.688)"/>
+    </g>
+  </g>
+</svg>

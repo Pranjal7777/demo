@@ -1,0 +1,23 @@
+<svg id='myVault' width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 11.95C2.58579 11.95 2.25 12.2857 2.25 12.7C2.25 13.1142 2.58579 13.45 3 13.45V11.95ZM6.40915 11.95H3V13.45H6.40915V11.95Z" fill="currentColor"/>
+<path d="M3 18.5505C2.58579 18.5505 2.25 18.8863 2.25 19.3005C2.25 19.7148 2.58579 20.0505 3 20.0505V18.5505ZM6.40915 18.5505H3V20.0505H6.40915V18.5505Z" fill="currentColor"/>
+<path d="M27.2504 16C27.2504 21.6381 22.5216 26.25 16.6365 26.25C10.7515 26.25 6.02271 21.6381 6.02271 16C6.02271 10.3619 10.7515 5.75 16.6365 5.75C22.5216 5.75 27.2504 10.3619 27.2504 16Z" stroke="currentColor" stroke-width="2"/>
+<ellipse cx="17.2039" cy="7.74971" rx="0.568191" ry="0.55" fill="currentColor"/>
+<ellipse cx="22.8866" cy="9.95015" rx="0.568191" ry="0.55" fill="currentColor"/>
+<ellipse cx="25.16" cy="16.5498" rx="0.568191" ry="0.55" fill="currentColor"/>
+<ellipse cx="22.8866" cy="22.0502" rx="0.568191" ry="0.55" fill="currentColor"/>
+<ellipse cx="17.2039" cy="24.25" rx="0.568191" ry="0.55" fill="currentColor"/>
+<ellipse cx="10.3866" cy="22.0502" rx="0.568191" ry="0.55" fill="currentColor"/>
+<ellipse cx="8.11311" cy="16.5498" rx="0.568191" ry="0.55" fill="currentColor"/>
+<ellipse cx="10.3866" cy="9.95015" rx="0.568191" ry="0.55" fill="currentColor"/>
+<path d="M20.0835 16.0803C20.0835 17.9309 18.5336 19.4311 16.6219 19.4311C14.7101 19.4311 13.1603 17.9309 13.1603 16.0803C13.1603 14.2298 14.7101 12.7296 16.6219 12.7296C18.5336 12.7296 20.0835 14.2298 20.0835 16.0803Z" stroke="currentColor"/>
+<path d="M16.6229 12.6222V10.7009" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<path d="M13.8716 13.4127L12.662 12.2402" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<path d="M19.3816 13.5963L20.785 12.2378" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<path d="M20.5976 16.0845H22.1854" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<path d="M11.0649 16.0798H13.0497" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<path d="M19.8266 16.0781C19.8266 14.3633 18.3905 12.9732 16.6191 12.9732C14.8476 12.9732 13.4115 14.3633 13.4115 16.0781C13.4115 17.7929 14.8476 19.183 16.6191 19.183C18.3905 19.183 19.8266 17.7929 19.8266 16.0781Z" stroke="currentColor" stroke-width="2"/>
+<path d="M16.6211 19.5355V21.4568" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<path d="M13.8613 18.7478L12.6571 19.9263" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<path d="M19.3787 18.5621L20.7822 19.9207" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+</svg>

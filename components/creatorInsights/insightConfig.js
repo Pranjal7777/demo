@@ -1,0 +1,1 @@
+export const insColors = ["insCol1", "insCol2", "insCol3", "insCol4", "insCol5", "insCol6", "insCol7", "insCol8", "insCol9", "insCol10", "insCol11", "insCol12", "insCol13"]

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.786" height="33.528" viewBox="0 0 16.786 33.528">
+  <defs>
+    <filter id="Union_29" x="0" y="0" width="16.786" height="33.528" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="more_1_" data-name="more (1)" transform="translate(-143.33 5.996)">
+    <g transform="matrix(1, 0, 0, 1, 143.33, -6)" filter="url(#Union_29)">
+      <path id="Union_29-2" data-name="Union 29" d="M0,19.139a2.393,2.393,0,1,1,2.393,2.393A2.393,2.393,0,0,1,0,19.139Zm0-8.374a2.391,2.391,0,1,1,.7,1.693A2.393,2.393,0,0,1,0,10.765ZM0,2.39a2.391,2.391,0,1,1,.7,1.7A2.393,2.393,0,0,1,0,2.39Z" transform="translate(6 6)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
